@@ -1,3 +1,4 @@
+---
 # Authentication not working properly for valid users
 
 This document tracks the context for Issue #1 and the planned validation steps.
@@ -17,3 +18,4 @@ This document tracks the context for Issue #1 and the planned validation steps.
 
 ## Notes
 - This PR only adds documentation to scope and validate the fix. Follow-up commits/PRs can add tests and code changes.
+---
